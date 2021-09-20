@@ -5,11 +5,11 @@
 A flutter based app for farmers integrated with machine learning
 
 App has multiple features - 
-1 Authentication (OTP based)
-2 Multilingual for efficient use 
-3 Rent farming tools
-4 Plant disease detection
-5 Crop plantation prediction 
+1- Authentication (OTP based)
+2- Multilingual for efficient use 
+3- Rent farming tools
+4- Plant disease detection
+5- Crop plantation prediction 
 
 ### Technology used
 

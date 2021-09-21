@@ -27,7 +27,7 @@ App has multiple features -
 
 ### Screenshots/Demo Video
 
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG-20201130-WA0055.jpg" width="250" title="hover text">
+
 
 <img src="https://github.com/UtkarshA135/KisanSeva/blob/master/s.jpg" width="250" title="hover text">
 

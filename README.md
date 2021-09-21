@@ -29,11 +29,11 @@ App has multiple features -
 
 
 
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/s.jpg" width="250" title="hover text">
+<img src="https://github.com/Kartikey0212/Agri-Susya/blob/main/disease%20recog.jpg" width="250" title="hover text">
 
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG_20210421_083435.jpg" width="250" title="hover text">
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/s.png" width="250" title="hover text">
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/s%20(1).jpg" width="250" title="hover text">
+<img src="https://github.com/Kartikey0212/Agri-Susya/blob/main/IMG_20210421_083435.jpg" width="250" title="hover text">
+<img src="https://github.com/Kartikey0212/Agri-Susya/blob/main/rent.jpg" width="250" title="hover text">
+<img src="https://github.com/Kartikey0212/Agri-Susya/blob/main/feed.jpg" width="250" title="hover text">
 
 
 

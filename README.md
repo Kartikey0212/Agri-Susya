@@ -34,7 +34,7 @@ App has multiple features -
 <img src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG_20210421_083435.jpg" width="250" title="hover text">
 <img src="https://github.com/UtkarshA135/KisanSeva/blob/master/s.png" width="250" title="hover text">
 <img src="https://github.com/UtkarshA135/KisanSeva/blob/master/s%20(1).jpg" width="250" title="hover text">
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG_20210421_084044.jpg" width="250" title="hover text">
+
 
 
 
@@ -109,8 +109,6 @@ Output
 ```
 
 ## App
-
-#### Download Product Apk **[here](https://drive.google.com/file/d/1OldNeNr5KRfFX5G56689_fnSCuSGvTCM/view?usp=sharing)**
 
 #### To Run App
 

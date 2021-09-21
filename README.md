@@ -56,9 +56,6 @@ _write in terminal "flutter run"_
 
 ML Powered App to assist farmers in crop disease detection and alerts.
 
-## Download Product Apk **[here](https://drive.google.com/file/d/1OldNeNr5KRfFX5G56689_fnSCuSGvTCM/view?usp=sharing)**
-
-
 ## Machine Learning Model
 
 Multi-Class Image classifier Built on PyTorch framework using CNN architecture. Currently Project Detects 17 States of disease in 4 plants ( Aiming Kerala State ) namely Cherry, Pepper, Potato and tomato.
@@ -71,7 +68,7 @@ Multi-Class Image classifier Built on PyTorch framework using CNN architecture. 
 
 #### How to train
 
-Upload the **[Python notebook](https://github.com/nandakishormpai2001/Plant_Disease_Detector/blob/main/model/Plant_Disease_Identifier.ipynb)** to Google Colab and run each cell for training the model. I have included a demo dataset to configure quickly. You can use this **[Kaggle Dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)** which is the original one with huge amount of pictures.
+Upload the **[Python notebook](https://github.com/nadakishormpai2001/Plant_Disease_Detector/blob/main/model/Plant_Disease_Identifier.ipynb)** to Google Colab and run each cell for training the model. I have included a demo dataset to configure quickly. You can use this **[Kaggle Dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)** which is the original one with huge amount of pictures.
 
 #### How It Works
 
